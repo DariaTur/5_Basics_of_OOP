@@ -29,10 +29,6 @@ public class Main {
 		textFile.deleteText("\nTry to catch it like every night");
 		view.showContent(textFile);
 		
-		
-		
-		
-
 	}
 
 }
