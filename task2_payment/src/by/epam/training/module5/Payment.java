@@ -159,7 +159,5 @@ public class Payment {
 			return true;
 		}
 
-		
-		
 	}
 }
